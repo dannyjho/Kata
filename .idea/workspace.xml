@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25e738d1-3e6b-4b89-a14a-aafe9c74fe98" name="Default" comment="" />
+    <list default="true" id="25e738d1-3e6b-4b89-a14a-aafe9c74fe98" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumOfDigitalRoot.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SumOfDigitalRoot.java">
+      <file leaf-file-name="ConsecutiveKPrimes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveKPrimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="168">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsecutiveKPrimesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ConsecutiveKPrimesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="14" column="44" selection-start-line="14" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +56,7 @@
       <find>move</find>
       <find>122635</find>
       <find>arr2</find>
+      <find>getRe</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -54,8 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/CountingDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Write_Number_in_Expanded_Form.java" />
         <option value="$PROJECT_DIR$/src/main/java/Find_divisors_number.java" />
         <option value="$PROJECT_DIR$/src/main/java/Convert_number_to_reversed_array_of_digits.java" />
         <option value="$PROJECT_DIR$/src/main/java/Averages_of_numbers.java" />
@@ -83,7 +98,6 @@
         <option value="$PROJECT_DIR$/src/test/java/ConsecutiveStringsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ConsecutiveStrings.java" />
         <option value="$PROJECT_DIR$/src/test/java/WhichAreInTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/WhichAreIn.java" />
         <option value="$PROJECT_DIR$/src/test/java/DecodeTheMorseCodeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/DecodeTheMorseCode.java" />
@@ -99,6 +113,15 @@
         <option value="$PROJECT_DIR$/src/main/java/NextSmallerNumberWithTheSameDigits.java" />
         <option value="$PROJECT_DIR$/src/main/java/FireBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/SortOneThreeTwo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TenPinBowlingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TenPinBowling.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/RedisService/RedisService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RedisConnectTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FixStringCaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FixStringCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConsecutiveKPrimesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConsecutiveKPrimes.java" />
       </list>
     </option>
   </component>
@@ -145,13 +168,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1585" />
-    <option name="y" value="178" />
-    <option name="width" value="1440" />
-    <option name="height" value="789" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="981" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -160,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,36 +225,11 @@
               <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -247,6 +244,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="RedisService" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/resources" />
@@ -264,19 +264,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortOneThreeTwoTest.test">
+  <component name="RunManager" selected="JUnit.ConsecutiveKPrimesTest.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="RedisConnectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RedisConnectTest" />
+      <module name="Kata" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FindTheSmallestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsecutiveKPrimesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindTheSmallestTest" />
+      <option name="MAIN_CLASS_NAME" value="ConsecutiveKPrimesTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -288,12 +293,12 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FindTheSmallestTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsecutiveKPrimesTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FindTheSmallestTest" />
+      <option name="MAIN_CLASS_NAME" value="ConsecutiveKPrimesTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -305,13 +310,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SortOneThreeTwoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FixStringCaseTest.BasicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SortOneThreeTwoTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="FixStringCaseTest" />
+      <option name="METHOD_NAME" value="BasicTests" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -322,30 +327,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StringsMixTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TenPinBowlingTest.BasicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StringsMixTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StringsMixTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="StringsMixTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="TenPinBowlingTest" />
+      <option name="METHOD_NAME" value="BasicTests" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -395,19 +383,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.StringsMixTest.test" />
-      <item itemvalue="JUnit.StringsMixTest" />
-      <item itemvalue="JUnit.FindTheSmallestTest.test" />
-      <item itemvalue="JUnit.FindTheSmallestTest" />
-      <item itemvalue="JUnit.SortOneThreeTwoTest.test" />
+      <item itemvalue="JUnit.TenPinBowlingTest.BasicTests" />
+      <item itemvalue="Application.RedisConnectTest" />
+      <item itemvalue="JUnit.FixStringCaseTest.BasicTests" />
+      <item itemvalue="JUnit.ConsecutiveKPrimesTest.test" />
+      <item itemvalue="JUnit.ConsecutiveKPrimesTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SortOneThreeTwoTest.test" />
-        <item itemvalue="JUnit.FindTheSmallestTest.test" />
-        <item itemvalue="JUnit.FindTheSmallestTest" />
-        <item itemvalue="JUnit.StringsMixTest.test" />
-        <item itemvalue="JUnit.StringsMixTest" />
+        <item itemvalue="JUnit.ConsecutiveKPrimesTest.test" />
+        <item itemvalue="JUnit.ConsecutiveKPrimesTest" />
+        <item itemvalue="JUnit.FixStringCaseTest.BasicTests" />
+        <item itemvalue="Application.RedisConnectTest" />
+        <item itemvalue="JUnit.TenPinBowlingTest.BasicTests" />
       </list>
     </recent_temporary>
   </component>
@@ -426,63 +414,68 @@
       <workItem from="1525327621090" duration="4774000" />
       <workItem from="1526265766906" duration="24000" />
       <workItem from="1526265904936" duration="733000" />
-      <workItem from="1528687057755" duration="716000" />
+      <workItem from="1528687057755" duration="2913000" />
+      <workItem from="1528706297523" duration="596000" />
+      <workItem from="1528794846675" duration="598000" />
+      <workItem from="1530081264126" duration="8127000" />
+      <workItem from="1531728382493" duration="4003000" />
+      <workItem from="1531981084961" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 10h 47m 00s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 07m 29s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 10h 47m 10s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 08m 12s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 10h 53m 30s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest - 2018.07.16 at 17h 08m 28s.xml">
+      <configuration name="ConsecutiveKPrimesTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 11h 17m 32s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 27m 32s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortOneThreeTwoTest_test - 2018.05.02 at 11h 32m 51s.xml">
-      <configuration name="SortOneThreeTwoTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 28m 00s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 11h 55m 04s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 28m 06s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 11h 56m 37s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 28m 15s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 11h 56m 57s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 29m 10s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindTheSmallestTest_test - 2018.05.02 at 11h 57m 12s.xml">
-      <configuration name="FindTheSmallestTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 29m 35s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortOneThreeTwoTest_test - 2018.06.11 at 11h 18m 43s.xml">
-      <configuration name="SortOneThreeTwoTest.test" configurationId="JUnit" />
+    <history-entry file="ConsecutiveKPrimesTest_test - 2018.07.16 at 17h 34m 32s.xml">
+      <configuration name="ConsecutiveKPrimesTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20457000" />
+    <option name="totallyTimeSpent" value="36576000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1585" y="178" width="1440" height="789" extended-state="0" />
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3180363" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32884902" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.18611111" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37518686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37474543" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.22460657" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.1773163" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -496,7 +489,38 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3168909" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.22460657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37518686" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32884902" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3180363" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18611111" />
+      <window_info id="Favorites" order="5" sideWeight="0.50073856" side_tool="true" weight="0.2160229" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -540,69 +564,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountingDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ConvertStringToCamelCaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="21" column="67" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConvertStringToCamelCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="93" lean-forward="true" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountingDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WriteNumberInExpandedForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SumOfDigitalRoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MergedStringChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="899">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MergeStringCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="6" column="73" lean-forward="true" selection-start-line="6" selection-start-column="73" selection-end-line="12" selection-end-column="207" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AverageOfNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DimondTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/AveragesOfNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -723,13 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/WhichAreInTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -844,44 +798,66 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FireBase.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/NextSmallerNumberWithTheSameDigitsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NextSmallerNumberWithTheSameDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SortOneThreeTwoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="7" column="47" lean-forward="true" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SortOneThreeTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NextSmallerNumberWithTheSameDigitsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NextSmallerNumberWithTheSameDigits.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SortOneThreeTwoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SortOneThreeTwo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TenPinBowlingTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/SumOfDigitalRoot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="288">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/JedisSentinelPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="182" column="22" selection-start-line="182" selection-start-column="17" selection-end-line="182" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RedisService/RedisService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/RedisConnectTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenPinBowling.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FixStringCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FixStringCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConsecutiveKPrimesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="14" column="44" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveKPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
         </state>
       </provider>
     </entry>
