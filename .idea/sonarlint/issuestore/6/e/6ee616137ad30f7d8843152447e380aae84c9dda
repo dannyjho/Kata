@@ -1,0 +1,6 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÃºƒ
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "avg".(ÁëËıÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆ¬®ııÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(µİûÿÿÿÿ

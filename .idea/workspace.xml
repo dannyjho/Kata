@@ -7,31 +7,69 @@
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2094724756">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1564" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1564" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Kata" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FixStringCase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FixStringCase.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TenPinBowling/TenPinBowling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CureCancerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CureCancerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="293">
+              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,11 +77,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CureCancer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CureCancer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TenPinBowling/TenPinBowlingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            <state relative-caret-position="624">
+              <caret line="28" column="87" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,6 +95,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -78,11 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Averages_of_numbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Average_of_numbers_Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AverageOfNumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AveragesOfNumbers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DimondTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GiveMeADiamondTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/GiveMeADiamond.java" />
         <option value="$PROJECT_DIR$/src/main/java/BitCounting.java" />
@@ -129,6 +166,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ConsecutiveKPrimes.java" />
         <option value="$PROJECT_DIR$/src/test/java/CureCancerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/CureCancer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TVRemote.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TVRemoteTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dinglemouse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TenPinBowling/TenPinBowlingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TenPinBowling/TenPinBowling.java" />
       </list>
     </option>
   </component>
@@ -172,14 +214,10 @@
       <select />
     </treeState>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1440" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="993" />
+    <option name="width" value="609" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -190,6 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -220,14 +259,15 @@
               <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kata" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TenPinBowling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kata" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
@@ -237,26 +277,34 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544770099171" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last.edited.regexp" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/resources" />
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="TenPinBowling" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RedisService" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,150 +319,131 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CureCancerTest.testSomething1">
+  <component name="RunManager" selected="JUnit.TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ConsecutiveKPrimesTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TenPinBowlingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsecutiveKPrimesTest" />
-      <option name="METHOD_NAME" value="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TenPinBowling" />
+      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
+      <option name="METHOD_NAME" value="when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TenPinBowlingTest.BasicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TenPinBowling" />
+      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
+      <option name="METHOD_NAME" value="BasicTests" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="CureCancerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TenPinBowlingTest.BasicTests2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CureCancerTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CureCancerTest.testSomething1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CureCancerTest" />
-      <option name="METHOD_NAME" value="testSomething1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TenPinBowling" />
+      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
+      <option name="METHOD_NAME" value="BasicTests2" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="CureCancerTest.testSomething2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TenPinBowlingTest.perfect_game_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CureCancerTest" />
-      <option name="METHOD_NAME" value="testSomething2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TenPinBowling" />
+      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
+      <option name="METHOD_NAME" value="perfect_game_test" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="CureCancerTest.testSomething3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CureCancerTest" />
-      <option name="METHOD_NAME" value="testSomething3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TenPinBowling" />
+      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
+      <option name="METHOD_NAME" value="when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConsecutiveKPrimesTest.test" />
-      <item itemvalue="JUnit.CureCancerTest.testSomething2" />
-      <item itemvalue="JUnit.CureCancerTest" />
-      <item itemvalue="JUnit.CureCancerTest.testSomething1" />
-      <item itemvalue="JUnit.CureCancerTest.testSomething3" />
+      <item itemvalue="JUnit.TenPinBowlingTest.BasicTests" />
+      <item itemvalue="JUnit.TenPinBowlingTest.perfect_game_test" />
+      <item itemvalue="JUnit.TenPinBowlingTest.BasicTests2" />
+      <item itemvalue="JUnit.TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
+      <item itemvalue="JUnit.TenPinBowlingTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CureCancerTest.testSomething1" />
-        <item itemvalue="JUnit.CureCancerTest" />
-        <item itemvalue="JUnit.CureCancerTest.testSomething2" />
-        <item itemvalue="JUnit.CureCancerTest.testSomething3" />
-        <item itemvalue="JUnit.ConsecutiveKPrimesTest.test" />
+        <item itemvalue="JUnit.TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
+        <item itemvalue="JUnit.TenPinBowlingTest" />
+        <item itemvalue="JUnit.TenPinBowlingTest.perfect_game_test" />
+        <item itemvalue="JUnit.TenPinBowlingTest.BasicTests2" />
+        <item itemvalue="JUnit.TenPinBowlingTest.BasicTests" />
       </list>
     </recent_temporary>
   </component>
@@ -439,108 +468,86 @@
       <workItem from="1530081264126" duration="8127000" />
       <workItem from="1531728382493" duration="4003000" />
       <workItem from="1531981084961" duration="2661000" />
-      <workItem from="1532421678998" duration="12708000" />
+      <workItem from="1532421678998" duration="21397000" />
+      <workItem from="1534733972720" duration="427000" />
+      <workItem from="1534735815524" duration="39381000" />
+      <workItem from="1535511078320" duration="1371000" />
+      <workItem from="1536028934526" duration="2000" />
+      <workItem from="1543548467946" duration="8710000" />
+      <workItem from="1544773849259" duration="595000" />
+      <workItem from="1545203216443" duration="594000" />
+      <workItem from="1545281136878" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CureCancerTest_testSomething2 - 2018.07.26 at 18h 40m 23s.xml">
-      <configuration name="CureCancerTest.testSomething2" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 56m 42s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething2 - 2018.07.26 at 18h 40m 44s.xml">
-      <configuration name="CureCancerTest.testSomething2" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 57m 21s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething2 - 2018.07.26 at 18h 41m 21s.xml">
-      <configuration name="CureCancerTest.testSomething2" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest - 2018.11.30 at 14h 57m 40s.xml">
+      <configuration name="TenPinBowlingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething2 - 2018.07.26 at 18h 42m 17s.xml">
-      <configuration name="CureCancerTest.testSomething2" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest - 2018.11.30 at 14h 58m 26s.xml">
+      <configuration name="TenPinBowlingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething2 - 2018.07.26 at 18h 42m 46s.xml">
-      <configuration name="CureCancerTest.testSomething2" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 58m 35s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest - 2018.07.26 at 18h 44m 15s.xml">
-      <configuration name="CureCancerTest" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 59m 57s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething1 - 2018.07.26 at 18h 44m 58s.xml">
-      <configuration name="CureCancerTest.testSomething1" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 02m 20s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething1 - 2018.07.26 at 18h 45m 13s.xml">
-      <configuration name="CureCancerTest.testSomething1" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 02m 44s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething1 - 2018.07.26 at 18h 45m 52s.xml">
-      <configuration name="CureCancerTest.testSomething1" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 05m 13s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CureCancerTest_testSomething1 - 2018.07.26 at 18h 46m 15s.xml">
-      <configuration name="CureCancerTest.testSomething1" configurationId="JUnit" />
+    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 06m 29s.xml">
+      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51347000" />
+    <option name="totallyTimeSpent" value="111720000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="23" width="1920" height="993" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="777" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3168909" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32884902" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18611111" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.513173" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.4599428" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.17891374" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="5" sideWeight="0.50073856" side_tool="true" weight="0.2160229" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="SonarLint" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.31" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.55081004" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32884902" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31422505" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.34620887" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32966456" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37518686" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.22460657" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32884902" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3180363" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18611111" />
-      <window_info id="Favorites" order="5" sideWeight="0.50073856" side_tool="true" weight="0.2160229" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -549,9 +556,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="48" />
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="list.get(0)" language="JAVA" />
@@ -584,62 +588,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/BitCounting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BitCountingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DirectionsReductionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MergeStringCheckerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DirectionsReduction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MergedStringChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/GiveMeADiamond.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WriteNumberInExpandedForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GiveMeADiamondTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -848,6 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveKPrimes.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ConsecutiveKPrimesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/TVRemote.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/FixStringCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -857,18 +806,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CureCancerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="216">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dinglemouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CureCancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TVRemoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AveragesOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
+          <folding>
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TenPinBowling/TenPinBowling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CureCancer.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TenPinBowling/TenPinBowlingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        <state relative-caret-position="624">
+          <caret line="28" column="87" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
