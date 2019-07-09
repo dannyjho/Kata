@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25e738d1-3e6b-4b89-a14a-aafe9c74fe98" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48147d610c6d0351c5fcc7db099332595dd4e200" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/8/48147d610c6d0351c5fcc7db099332595dd4e200" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -11,6 +15,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -26,64 +35,45 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2094724756">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1564" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1564" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Kata" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TenPinBowling/TenPinBowling.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DisariumNumber/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PlayingWithDigits/DigPow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TenPinBowling/TenPinBowlingTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PlayingWithDigits/DigPowTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="28" column="87" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+            <state>
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,18 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/GiveMeADiamondTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/GiveMeADiamond.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BitCounting.java" />
-        <option value="$PROJECT_DIR$/src/test/java/BitCountingTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DirectionsReductionTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DirectionsReduction.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SumOfDigitalRootTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SumOfDigitalRoot.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MergedStringChecker.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MergeStringCheckerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ConvertStringToCamelCaseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/NumberOfPeopleInTheBus.java" />
         <option value="$PROJECT_DIR$/src/test/java/NumberOfPeopleInTheBusTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FindDivisorsOfANumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/FindDivisorsOfANumberTest.java" />
@@ -157,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/main/java/SortOneThreeTwo.java" />
         <option value="$PROJECT_DIR$/src/test/java/TenPinBowlingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/TenPinBowling.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/RedisService/RedisService.java" />
         <option value="$PROJECT_DIR$/src/main/java/RedisConnectTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/FixStringCaseTest.java" />
@@ -171,14 +148,21 @@
         <option value="$PROJECT_DIR$/src/main/java/Dinglemouse.java" />
         <option value="$PROJECT_DIR$/src/test/java/TenPinBowling/TenPinBowlingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/TenPinBowling/TenPinBowling.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AreTheyTheSame/AreSame.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/AreTheyTheSame/AreSameTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HelpTheBookseller/StockListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HelpTheBookseller/StockList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BuyingACar/BuyCarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BuyingACar/BuyCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WeightForWeight/FatToFit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WeightForWeight/FatToFitTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DisariumNumber/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DisariumNumber/Solution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PlayingWithDigits/DigPowTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PlayingWithDigits/DigPow.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -215,9 +199,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1440" />
     <option name="y" value="23" />
-    <option name="width" value="609" />
-    <option name="height" value="777" />
+    <option name="width" value="1920" />
+    <option name="height" value="961" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -259,14 +244,6 @@
               <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kata" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TenPinBowling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kata" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -280,9 +257,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544770099171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554717231063" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -292,16 +270,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="TenPinBowling" />
+      <recent name="PlayingWithDigits" />
+      <recent name="DisariumNumber" />
+      <recent name="WeightForWeight" />
+      <recent name="BuyingACar" />
+      <recent name="HelpTheBookseller" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="RedisService" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="RedisService" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/resources" />
@@ -319,8 +301,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct">
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="JUnit.DigPowTest">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -332,84 +314,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenPinBowlingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DigPowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="PATTERN" value="PlayingWithDigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TenPinBowling" />
-      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
-      <option name="METHOD_NAME" value="when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
+      <option name="PACKAGE_NAME" value="PlayingWithDigits" />
+      <option name="MAIN_CLASS_NAME" value="PlayingWithDigits.DigPowTest" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenPinBowlingTest.BasicTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DigPowTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="PATTERN" value="PlayingWithDigits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TenPinBowling" />
-      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
-      <option name="METHOD_NAME" value="BasicTests" />
+      <option name="PACKAGE_NAME" value="PlayingWithDigits" />
+      <option name="MAIN_CLASS_NAME" value="PlayingWithDigits.DigPowTest" />
+      <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenPinBowlingTest.BasicTests2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="PATTERN" value="DisariumNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TenPinBowling" />
-      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
-      <option name="METHOD_NAME" value="BasicTests2" />
+      <option name="PACKAGE_NAME" value="DisariumNumber" />
+      <option name="MAIN_CLASS_NAME" value="DisariumNumber.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.Disarium_Or_NOT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DisariumNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DisariumNumber" />
+      <option name="MAIN_CLASS_NAME" value="DisariumNumber.SolutionTest" />
+      <option name="METHOD_NAME" value="Disarium_Or_NOT" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TenPinBowlingTest.perfect_game_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionTest.Larger_Numbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Kata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TenPinBowling.*" />
+          <option name="PATTERN" value="DisariumNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TenPinBowling" />
-      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
-      <option name="METHOD_NAME" value="perfect_game_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Kata" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TenPinBowling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TenPinBowling" />
-      <option name="MAIN_CLASS_NAME" value="TenPinBowling.TenPinBowlingTest" />
-      <option name="METHOD_NAME" value="when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
+      <option name="PACKAGE_NAME" value="DisariumNumber" />
+      <option name="MAIN_CLASS_NAME" value="DisariumNumber.SolutionTest" />
+      <option name="METHOD_NAME" value="Larger_Numbers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -417,12 +398,14 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -431,19 +414,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TenPinBowlingTest.BasicTests" />
-      <item itemvalue="JUnit.TenPinBowlingTest.perfect_game_test" />
-      <item itemvalue="JUnit.TenPinBowlingTest.BasicTests2" />
-      <item itemvalue="JUnit.TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
-      <item itemvalue="JUnit.TenPinBowlingTest" />
+      <item itemvalue="JUnit.SolutionTest" />
+      <item itemvalue="JUnit.SolutionTest.Larger_Numbers" />
+      <item itemvalue="JUnit.SolutionTest.Disarium_Or_NOT" />
+      <item itemvalue="JUnit.DigPowTest" />
+      <item itemvalue="JUnit.DigPowTest.Test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" />
-        <item itemvalue="JUnit.TenPinBowlingTest" />
-        <item itemvalue="JUnit.TenPinBowlingTest.perfect_game_test" />
-        <item itemvalue="JUnit.TenPinBowlingTest.BasicTests2" />
-        <item itemvalue="JUnit.TenPinBowlingTest.BasicTests" />
+        <item itemvalue="JUnit.DigPowTest" />
+        <item itemvalue="JUnit.DigPowTest.Test1" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.Disarium_Or_NOT" />
+        <item itemvalue="JUnit.SolutionTest.Larger_Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -476,49 +459,61 @@
       <workItem from="1543548467946" duration="8710000" />
       <workItem from="1544773849259" duration="595000" />
       <workItem from="1545203216443" duration="594000" />
-      <workItem from="1545281136878" duration="604000" />
+      <workItem from="1545281136878" duration="8279000" />
+      <workItem from="1546497821947" duration="106000" />
+      <workItem from="1546497956716" duration="1223000" />
+      <workItem from="1547090712577" duration="234000" />
+      <workItem from="1547434631056" duration="597000" />
+      <workItem from="1547437327448" duration="589000" />
+      <workItem from="1547620889011" duration="39000" />
+      <workItem from="1552640206254" duration="880000" />
+      <workItem from="1554106985797" duration="6640000" />
+      <workItem from="1554692981634" duration="780000" />
+      <workItem from="1562228355970" duration="1417000" />
+      <workItem from="1562652073654" duration="1541000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 56m 42s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="SolutionTest_Disarium_Or_NOT - 2019.07.04 at 16h 41m 47s.xml">
+      <configuration name="SolutionTest.Disarium_Or_NOT" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 57m 21s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2019.07.04 at 16h 41m 52s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest - 2018.11.30 at 14h 57m 40s.xml">
-      <configuration name="TenPinBowlingTest" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2019.07.04 at 16h 42m 46s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest - 2018.11.30 at 14h 58m 26s.xml">
-      <configuration name="TenPinBowlingTest" configurationId="JUnit" />
+    <history-entry file="DigPowTest - 2019.07.09 at 14h 13m 51s.xml">
+      <configuration name="DigPowTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 58m 35s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="DigPowTest - 2019.07.09 at 14h 15m 09s.xml">
+      <configuration name="DigPowTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 14h 59m 57s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="DigPowTest_Test1 - 2019.07.09 at 14h 17m 23s.xml">
+      <configuration name="DigPowTest.Test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 02m 20s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="DigPowTest_Test1 - 2019.07.09 at 14h 17m 34s.xml">
+      <configuration name="DigPowTest.Test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 02m 44s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="DigPowTest_Test1 - 2019.07.09 at 14h 19m 13s.xml">
+      <configuration name="DigPowTest.Test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 05m 13s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="DigPowTest_Test1 - 2019.07.09 at 14h 20m 23s.xml">
+      <configuration name="DigPowTest.Test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TenPinBowlingTest_when_game_has_normal_and_perfect_round_then_score_should_be_correct - 2018.11.30 at 15h 06m 29s.xml">
-      <configuration name="TenPinBowlingTest.when_game_has_normal_and_perfect_round_then_score_should_be_correct" configurationId="JUnit" />
+    <history-entry file="DigPowTest - 2019.07.09 at 14h 20m 50s.xml">
+      <configuration name="DigPowTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111720000" />
+    <option name="totallyTimeSpent" value="133441000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="777" extended-state="6" />
+    <frame x="1440" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.4599428" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.1315229" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -528,16 +523,17 @@
       <window_info anchor="bottom" id="SonarLint" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.31" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.55081004" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.38641188" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.54989386" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32884902" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.31422505" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3131635" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -547,20 +543,16 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" weight="0.32966456" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <watches-manager>
       <configuration name="JUnit">
-        <watch expression="list.get(0)" language="JAVA" />
-        <watch expression="String.valueOf(inputCharArr[0])" language="JAVA" />
-        <watch expression="inputCharArr[0]" language="JAVA" />
+        <watch expression="square.indexOf(b[i])" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -570,6 +562,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>square.indexOf(b[i])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>inputCharArr[0]</expression-string>
         <language-id>JAVA</language-id>
@@ -588,111 +585,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/GiveMeADiamondTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="64" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NumberOfPeopleInTheBus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FindDivisorsOfANumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/NumberOfPeopleInTheBusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JadenCasingStringsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JadenCasingStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ConsecutiveStringsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SumOfDigitalRootTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WhichAreInTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DecodeTheMorseCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WhichAreIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConvertNumberToReversedArrayOfDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CountingDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DecodeTheMorseCodeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ConvertStringToCamelCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
@@ -714,25 +606,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DontEatTheLastCake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/Comparator.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/StringsMixTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringsMix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -780,13 +658,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/RedisService/RedisService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/RedisConnectTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/TenPinBowling.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="695">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FixStringCaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -797,13 +668,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveKPrimes.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/ConsecutiveKPrimesTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/TVRemote.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/FixStringCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CureCancerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -846,34 +710,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
-          <folding>
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TenPinBowling/TenPinBowling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TenPinBowling/TenPinBowlingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
+        <state relative-caret-position="567">
           <caret line="28" column="87" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AreTheyTheSame/AreSameTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DontEatTheLastCake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GiveMeADiamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FixStringCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringsMix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="73" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HelpTheBookseller/StockList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AreTheyTheSame/AreSame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HelpTheBookseller/StockListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BuyingACar/BuyCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BuyingACar/BuyCarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WeightForWeight/FatToFit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WeightForWeight/FatToFitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DisariumNumber/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DisariumNumber/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlayingWithDigits/DigPowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PlayingWithDigits/DigPow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
